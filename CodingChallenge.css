@@ -1,0 +1,60 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: Cursive;
+}
+header, nav{
+  text-align: center;
+}
+.contenitore{
+  width: 1000px;
+  margin:auto;
+  border-radius: 25px;
+  padding: 5%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.logo{
+  width: 300px;
+}
+.titolo{
+  color: rgb(127, 255, 0);
+  margin-bottom: 3px;
+}
+nav{
+  width: 100%;
+  height: 20px;
+  background-color: rgb(127, 255, 0);
+  padding: 1.5%;
+}
+h2{
+  display: inline-block;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+h4{
+  color: white;
+  margin-top: 3px;
+  margin-bottom: 0;
+}
+.barragialla{
+  width: 40%;
+  height: 20px;
+  border-radius: 25px;
+  background-color: yellow;
+  margin-bottom: 15px;
+}
+.barraverde{
+  width: 70%;
+  height: 20px;
+  border-radius: 25px;
+  background-color: green;
+  margin-bottom: 15px
+}
+.barrarossa{
+  width: 20%;
+  height: 20px;
+  border-radius: 25px;
+  background-color: red;
+  margin-bottom: 15px
+}
